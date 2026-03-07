@@ -102,7 +102,7 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/jatin-jatin42/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:jatin.sdev@gmail.com)
-  [![Follow on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]((https://x.com/jatin_jatin42))
+  [![Follow on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jatin_jatin42)
   [![Follow on GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatin-jatin42)
   [![View My Portfolio](https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=briefcase&logoColor=white)](https://jatin-portfolio-app.vercel.app)
 </div>
