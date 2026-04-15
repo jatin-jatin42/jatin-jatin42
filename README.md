@@ -3,7 +3,7 @@
 <!--horizontal divider(gradiant)-->
 
 
-<div align="center" style="border: px solid #000000;>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Active+Learner/Researcher;Self-taught+Fullstack+Developer;Machine+Learning+Enthusiast;Growing+Agentic+AI+Developer;Grinding+Data+Str+and+Algo)](https://git.io/typing-svg)
 
