@@ -8,7 +8,7 @@
 
 </div>
 
-<img align="right" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+<img align="right" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/output/coder.gif" />
 
 <br>
 
