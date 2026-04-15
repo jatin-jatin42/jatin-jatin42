@@ -2,17 +2,16 @@
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <!--horizontal divider(gradiant)-->
 
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Active+Learner/Researcher;Self-taught+Fullstack+Developer;Machine+Learning+Enthusiast;Growing+Agentic+AI+Developer;Grinding+Data+Str+and+Algo)](https://git.io/typing-svg)
 
 </div>
 
-<a target="_blank" align="center" >
- <img align="right" top="500" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+<a target="_blank" align="center">
+  <img align="right" height="320" width="320" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 </a>
-<!-- https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif -->
+
 <br>
 
 <h3><b><u>🚀 About Me </u></b></h3>
@@ -20,21 +19,19 @@
 I am Jatin, a student and tech enthusiast with a passion for software development. I thrive in the dynamic world of technology. My focus is on collaboration and community support. I move fast, learn faster, and mildly over-caffeinated. Constantly exploring new technologies, quick to pick up new tech (Agentic AI is on my radar). Let's create innovative solutions together!
 </p>
 
->*"Turning coffee into features and bugs into lessons."* ☕
+*"Turning coffee into features and bugs into lessons."* ☕
 
 - 🔭 I’m currently working on something cool!😉
 
 - 💫 I’m looking forward to collaborate on Web projects.
 
 <br>
-</div>
+<br clear="both">
 
 <h3><b><u> 🛠️ The Arsenal </u></b></h3>
-<div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
-<div align="center">
-<br>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
@@ -45,6 +42,9 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
@@ -55,12 +55,12 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
-</div>
+</p>
 <br />
 
 <!-- Mission Status & Contribution Timeline: side-by-side using a table (works on GitHub README) -->
 <h3><b><u> 📊 Mission Status </u></b></h3>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-jatin42&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
@@ -68,13 +68,13 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 </div> 
 
 <h3><b><u> 📅 Contribution Timeline </u></b></h3>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-jatin42&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 <div align="center">
   
   <picture>
@@ -95,7 +95,7 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 </div>
 
 <h3><b><u> 🤝 Contact Me </u></b></h3>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center"><!-----Social Accounts------>
 <div align="center">
