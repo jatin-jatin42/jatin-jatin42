@@ -59,7 +59,7 @@ $ neofetch --profile
 <div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-jatin42&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
+ <img src="https://streak-stats.demolab.com/?user=jatin-jatin42&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
        alt="Jatin's Streak" style="max-width:100%; height:auto;" />
 </div> 
 
