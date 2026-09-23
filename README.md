@@ -16,7 +16,7 @@ I'm a Founding AI Engineer obsessed with low-latency cognitive architectures, di
 *"Turning coffee into features and bugs into lessons."* ☕
 
 - 🔭 I’m currently working on something cool!😉
-- 💫 I’m looking forward to collaborate on Web projects.
+- 💫 I’m looking forward to collaborate.
 <br clear="both">
 
 ### ⚡ `/dev/jatin` — System Architecture
@@ -31,9 +31,6 @@ $ neofetch --profile
   Observability: OpenTelemetry, Langfuse (DAG Provenance), Sigma.js WebGL
   Throughput Target: Sub-15ms inference latency, sub-600ms multi-provider dispatch
 ```
-
-<br>
-
 <h3><b><u> 🛠️ The Arsenal </u></b></h3>
 <div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
