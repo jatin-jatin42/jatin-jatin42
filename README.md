@@ -6,11 +6,11 @@
 
 </div>
 
-<img align="right" width="300" hspace="25" style="margin-left: 25px; margin-bottom: 15px;" alt="Coder GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+<img align="right" width="300" hspace="25" style="margin-left: 40px; margin-bottom: 15px;" alt="Coder GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
 
 <h3><b><u>🚀 About Me </u></b></h3>
 <p align="justify">
-I'm a Founding AI Engineer obsessed with low-latency cognitive architectures, distributed event pipelines, and graph-augmented persistence. I design multi-agent state machines with human-in-the-loop gating, navigate high-throughput message streaming, and traverse multi-hop graph embeddings with reciprocal rank fusion.
+I'm a **Founding AI Engineer** driven by applying proven technical patterns to new spaces. I learn fast, build faster, and enjoy figuring things out when there’s no obvious playbook to follow. You'll usually find me **mildly caffeinated and building something no one cares about except me.**
 </p>
 
 *"Turning coffee into features and bugs into lessons."* ☕
@@ -19,18 +19,6 @@ I'm a Founding AI Engineer obsessed with low-latency cognitive architectures, di
 - 💫 I’m looking forward to collaborate.
 <br clear="both">
 
-### ⚡ `/dev/jatin` — System Architecture
-
-```zsh
-$ neofetch --profile
-  OS: Systems & Agentic AI
-  Kernel: TypeScript 5.x / Python 3.12 / Cypher
-  Orchestration: LangGraph (Multi-Agent State Machines, HITL Gating, MCP)
-  Retrieval: Dual-Store Hybrid (Memgraph MAGE + PGVector via RRF)
-  Event Fabric: Kafka Streams, Redis Pub/Sub, Distributed Locks
-  Observability: OpenTelemetry, Langfuse (DAG Provenance), Sigma.js WebGL
-  Throughput Target: Sub-15ms inference latency, sub-600ms multi-provider dispatch
-```
 <h3><b><u> 🛠️ The Arsenal </u></b></h3>
 <div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
@@ -63,7 +51,7 @@ $ neofetch --profile
 <h3><b><u> 📅 Contribution Timeline </u></b></h3>
 <div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -78,7 +66,7 @@ $ neofetch --profile
       src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</div>
+</div> -->
 
 <h3><b><u> 🤝 Contact Me </u></b></h3>
 <div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
