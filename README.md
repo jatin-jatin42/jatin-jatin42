@@ -10,7 +10,7 @@
 
 <h3><b><u>🚀 About Me </u></b></h3>
 <p align="justify">
-I'm a **Founding AI Engineer** driven by applying proven technical patterns to new spaces. I learn fast, build faster, and enjoy figuring things out when there’s no obvious playbook to follow. You'll usually find me **mildly caffeinated and building something no one cares about except me.**
+I'm a <b>Founding AI Engineer</b> driven by applying proven technical patterns to new spaces. I learn fast, build faster, and enjoy figuring things out when there’s no obvious playbook to follow. You'll usually find me mildly caffeinated and building something no one cares about except me.
 </p>
 
 *"Turning coffee into features and bugs into lessons."* ☕
