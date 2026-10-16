@@ -51,22 +51,22 @@ I'm a <b>Founding AI Engineer</b> driven by applying proven technical patterns t
 <h3><b><u> 📅 Contribution Timeline </u></b></h3>
 <div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
-<!-- <div align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/jatin-jatin42/jatin-jatin42/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/jatin-jatin42/jatin-jatin42/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/jatin-jatin42/jatin-jatin42/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</div> -->
+</div>
 
 <h3><b><u> 🤝 Contact Me </u></b></h3>
 <div align="center"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
